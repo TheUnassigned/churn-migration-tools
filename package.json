@@ -1,0 +1,26 @@
+{
+  "name": "churn-migration-tools",
+  "version": "1.0.0",
+  "description": "Tool set used to migrate churn to the latest version",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-client": "^1.1.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheUnassigned/churn-migration-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheUnassigned/churn-migration-tools/issues"
+  },
+  "homepage": "https://github.com/TheUnassigned/churn-migration-tools#readme"
+}
