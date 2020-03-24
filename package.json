@@ -9,7 +9,12 @@
     "minimist": "^1.2.0",
     "node-fetch": "^1.6.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.32",
+    "@babel/node": "^7.0.0-beta.32",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
